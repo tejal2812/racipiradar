@@ -1,0 +1,10 @@
+:root {
+  --primary-background-color: #f0f2f5;
+  --primary-text-color: #333333;
+  --secondary-text-color: #666666;
+  --accent-color: #007bff;
+}
+
+main {
+  min-height: calc(100vh - 116px - 186px);
+}
